@@ -10,16 +10,16 @@ The purpose of the project is to create a website that will allow us to filter a
 The results were a neat and clean site that will allow us to filter the UFO sighting data on 5 different criteria: Date, City, State, Country, Shape of sighting. The site consists of 3 main components:
 
 The headers and a short paragraph explaining the purpose of the site:
-![headers]()
+![headers](https://github.com/ccastanette/UFOs/blob/main/images/headers.png)
 
 The table of all of our collected UFO sighting data:
-![table]()
+![table](https://github.com/ccastanette/UFOs/blob/main/images/table.png)
 
 And the filters we created:
-![filters]()
+![filters](https://github.com/ccastanette/UFOs/blob/main/images/filters.png)
 
 To use the filters we only need to enter a value and hit enter. If the results are still too broad you can simply enter a value in another call and hit enter again. This will filter the already filtered results even more. For example the results below are filtered to only include light shaped sightings in California.
-![results]()
+![results](https://github.com/ccastanette/UFOs/blob/main/images/results.png)
 
 ## Summary
 
